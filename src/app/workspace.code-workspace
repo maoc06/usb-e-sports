@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Ref_eSports"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "eSports"
+	}
+}
